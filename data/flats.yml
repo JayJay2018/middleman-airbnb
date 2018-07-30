@@ -1,0 +1,48 @@
+ssaunier:
+  name: "Sebastien's home"
+  fav_food: Pot-au-feu
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Boris' home"
+  fav_food: Cordon Bleu
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  fav_food: oysters
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+hiennguyen:
+  name: Hien's home
+  fav_food: Miso
+  description: Nice flat in San Francisco
+  city_name: "San Francisco, Ca"
+  city_slug: "sanfrancisco"
+  wifi: true
+  rating: 5
+louismasset:
+  name: Louis' home
+  fav_food: fries
+  description: Nice flat in Brussels
+  city_name: "Brussels, Bel"
+  city_slug: "brussels"
+  wifi: false
+  rating: 4
+frankfranke:
+  name: Frank's home
+  fav_food: Pulpo a la plancha
+  description: Nice country house in SPO
+  city_name: "SPO, Ger"
+  city_slug: "spo"
+  wifi: true
+  rating: 5
